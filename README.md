@@ -21,6 +21,7 @@
 ### `git checkout Nameofbranch`
 ### `git merge main`
 ### `git push`
+## Then goto you browser, open your github, goto Helixx-in/Lechene and click on the create pull request button
 
 #### If merge conflict
 / Review the conflicts
